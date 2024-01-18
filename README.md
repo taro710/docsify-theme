@@ -9,4 +9,4 @@ Custom docsify theme by [@taro710](https://github.com/taro710).
 
 <img src="assets/dark-react.png" >
 
-**[Preview]()**
+**[Preview](https://taro710.github.io/docsify-theme/#/)**, **[Source](https://github.com/taro710/docsify-theme/blob/main/docs/themes/dark-react.css)**
